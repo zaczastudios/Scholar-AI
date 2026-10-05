@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StudyMind</string>
+    <string name="nav_tutor">AI Tutor</string>
+    <string name="nav_flashcards">Flashcards</string>
+    <string name="nav_quiz">Quiz AI</string>
+    <string name="nav_planner">Plan &amp; Notes</string>
+    <string name="nav_focus">Focus Timer</string>
+</resources>

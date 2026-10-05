@@ -1,0 +1,6 @@
+{
+  "name": "StudyMind",
+  "description": "AI Study Companion & Tutor for interactive explanations, flashcards, quizzes, study notes, and focus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
